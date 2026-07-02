@@ -19,25 +19,33 @@ echo: false
 
 <!-- ![](figs/title.png){width=100%} -->
 
-## My job:
+## My job: Associate Professor
 
-Epidemiologist
-understanding how diseases spread
+:::: {.columns}
 
-Associate professor 
+::: {.column width="60%"}
 
-Marc Baguelin
+- Epidemiologist → understanding how diseases spread
 
-Imperial College London
+- Imperial College London
 
-London School of Hygiene & Tropical Medicine
+- London School of Hygiene & Tropical Medicine
 
+:::
 
+::: {.column width="40%"}
 
+![](figs/imperial_SPH.png){width=80%}
+
+\vspace{1em}
+
+![](figs/londonschoolofhygiene.webp){width=80%}
+
+:::
+
+::::
 
 ## Who am I?
-
-{background-image="figs/background1.png"
 
 <div class="box">
 
@@ -55,8 +63,6 @@ London School of Hygiene & Tropical Medicine
 
 </div>
 
----
-
 ## Can diseases spread like dominoes?
 
 😷 → 😷 → 😷 → 😷
@@ -65,62 +71,50 @@ Can we predict what happens next?
 
 That's my job!
 
+## Scientists are detectives {.smaller}
 
-## Scientists are detectives
+:::: {.columns}
 
-![](https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1600)
+::: {.column width="45%"}
 
-🦠 Clues
+![](https://cdn.britannica.com/04/84704-050-7E762815/Basil-Rathbone-movies-Arthur-Conan-Doyle-one.jpg){width=100%}
 
-📈 Numbers
+:::
+
+::: {.column width="55%"}
+
+❓ We can't see infections happen
+
+<br>
+
+So we look for clues:
+
+🦠 Tests
+
+📈 Data
 
 🏥 Hospitals
 
 💻 Computers
 
 ::: fragment
-### What clues would YOU look for?
+
+<br>
+
+### We use clues to solve the mystery.
+
 :::
 
----
-
-# My laboratory {background-image="figs/background1.png"}
-
-![](https://plus.unsplash.com/premium_photo-1682141002094-668233a72d60?fm=jpg&q=80&w=1800)
-
-💻 Computers
-
-📊 Graphs
-
-🧮 Maths
-
-🗺️ Maps
-
-👥 Teams
-
-::: fragment
-Many scientists never wear white coats!
 :::
 
-## Quick question!
+::::
 
-Raise your hand if...
-
-❤️ You like maths
-
-💻 You like computers
-
-🔬 You like science
-
-🧩 You like solving puzzles
-
-
-# What happened during COVID? {background-image="figs/background1.png"}
+# Two examples of my work {background-image="figs/background1.png"}
 
 ## 🦠 → 🌍 → 🤝 → 🏥 → 💉 → 😊
 
 ::: fragment
-Scientists worked together.
+During Covid 19, scientists worked together.
 :::
 
 ::: fragment
@@ -128,14 +122,10 @@ Doctors, nurses, engineers and researchers.
 :::
 
 ::: fragment
-I built mathematical models to explore what might happen next.
+I built mathematical models to explore what might happen next and advise the government.
 :::
 
----
-
-# Why do children get the flu vaccine at school? {background-image="figs/background1.png"}
-
-## Who has had the little nose spray?
+## Who has had the little nose spray? {.smaller}
 
 👦
 
@@ -151,16 +141,14 @@ I built mathematical models to explore what might happen next.
 
 👵 Grandparents
 
+</br>
+
 ::: fragment
-Children are very good at sharing germs!
+Children are very good at sharing germs like influenza!
 :::
 
 ::: fragment
-Vaccination slows the spread.
-:::
-
-::: fragment
-Protecting one person helps protect many others.
+Vaccinating one person helps protect many others.
 :::
 
 ::: fragment
@@ -172,8 +160,6 @@ My work helped provide scientific evidence used by experts when considering the 
 ## What is a mathematical model?
 
 ### Like Minecraft 🎮
-
-### Like SimCity 🏙️
 
 ### Like weather forecasts ☀️
 
@@ -195,6 +181,8 @@ A practice world for testing ideas safely.
 
 🟢 = vaccinated
 
+</br>
+
 🔵 🔵 🔴 🔵 🔵
 
 ::: fragment
@@ -205,11 +193,89 @@ What happens next?
 Can you guess?
 :::
 
----
+## Let's model it... {.smaller}
+
+🔴 = infected
+
+🔵 = healthy
+
+🟢 = vaccinated
+
+<br>
+
+🔵 🔵 🔴 🔵 🔵
+
+::: fragment
+What happens next?
+:::
+
+::: fragment
+Maybe the infected person passes the infection to one of their neighbours...
+:::
+
+::: fragment
+🔵 🔴 🔴 🔵 🔵
+:::
+
+::: fragment
+Then the process repeats.
+:::
+
+::: fragment
+🔴 🔴 🔴 🔵 🔵
+:::
+
+::: fragment
+This simple idea is the basis of many infectious disease models.
+:::
+
+## Let's imagine...
+
+🔵 🟢 🔴 🔵 🔵
+
+::: fragment
+Can the infection spread to everyone?
+:::
+
+::: fragment
+🟢 individuals are protected.
+:::
+
+::: fragment
+They can block transmission.
+:::
+
+::: fragment
+Vaccination protects individuals...
+:::
+
+::: fragment
+...and can protect others too.
+:::
+
+## Comparing the two scenarios
+
+:::: {.columns}
+
+::: {.column width="50%"}
+No vaccination
+
+🔴 🔴 🔴 🔵 🔵
+:::
+
+::: {.column width="50%"}
+With vaccination
+
+🔵 🟢 🔴 🔵 🔵
+:::
+
+::::
+
+<br>
+
+Vaccination changes the final outcome.
 
 ## My favourite part of my job
-
-![](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1800)
 
 🧩 Solving puzzles
 
@@ -217,13 +283,10 @@ Can you guess?
 
 👨‍💻 Building models
 
-✈️ Travelling
-
-👩‍🔬 Working with amazing people
+👩‍🔬 Working with amazing people from different disciplines
 
 🎓 Teaching
 
----
 
 ## How did I become a scientist?
 
@@ -235,81 +298,29 @@ Can you guess?
 
 ↓
 
-### University
+### University (engineering & applied maths)
 
 ↓
 
-### Research
-
-↓
-
-### Helping people
+### Research UKSHA and Imperial and LSHTM
 
 ::: fragment
 I wasn't born a scientist.
 :::
 
-::: fragment
-I stayed curious.
-:::
-
-<!-- ## Every scientist asks... -->
-
-<!-- # WHY? -->
-
-<!-- ::: fragment -->
-<!-- # HOW? -->
-<!-- ::: -->
-
-<!-- ::: fragment -->
-<!-- # WHAT IF...? -->
-<!-- ::: -->
-
-<!-- ::: fragment -->
-<!-- # COULD WE DO BETTER? -->
-<!-- ::: -->
-
----
-
 ## Your turn!
 
 ### What would YOU investigate?
 
-🌍 The planet?
+🌍 Climate change?
 
-🚀 Space?
+✨ The stars and planets?
 
 🦖 Dinosaurs?
 
 🦠 Diseases?
 
-🎮 Video games?
-
----
-
-## Time for an animation!
-
-![](https://images.pexels.com/photos/8471910/pexels-photo-8471910.jpeg)
-
-## Scientists working together
-
-## Solving problems
-
-## Helping people
-
----
-
-## What do YOU think?
-
- What surprised you?
-
- What did scientists actually do?
-
- Why are science lessons important?
-
- What would YOU investigate?
-
----
+🏺 History and ancient civilizations?
 
 ## Thank you!
 
@@ -319,4 +330,11 @@ I stayed curious.
 
 🟩 Science needs people like you.
 
-🟪 Maybe the next scientist is sitting in this room today.
+🟪 Anyone can become a scientist.
+
+## Time for an animation!
+
+{{< video https://www.youtube.com/embed/oQAryUEetG4?controls=1&modestbranding=1&rel=0
+    width="800"
+    height="450"
+>}}
