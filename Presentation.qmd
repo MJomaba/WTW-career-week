@@ -1,0 +1,322 @@
+---
+title: ""
+subtitle: ""
+author: ""
+date: ""
+
+title-slide-attributes:
+  data-background-image: "figs/title.png"
+  data-background-size: contain
+  data-background-position: center
+
+format:
+  tickle_ext-revealjs: default
+
+echo: false
+---
+
+# {.center background-image="figs/title.png"}
+
+<!-- ![](figs/title.png){width=100%} -->
+
+## My job:
+
+Epidemiologist
+understanding how diseases spread
+
+Associate professor 
+
+Marc Baguelin
+
+Imperial College London
+
+London School of Hygiene & Tropical Medicine
+
+
+
+
+## Who am I?
+
+{background-image="figs/background1.png"
+
+<div class="box">
+
+🇫🇷 Born in France
+
+🇬🇧 Moved to the UK
+
+❤️ Maths
+
+💻 Computers
+
+🔬 Science
+
+🤝 Helping people
+
+</div>
+
+---
+
+## Can diseases spread like dominoes?
+
+😷 → 😷 → 😷 → 😷
+
+Can we predict what happens next?
+
+That's my job!
+
+
+## Scientists are detectives
+
+![](https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1600)
+
+🦠 Clues
+
+📈 Numbers
+
+🏥 Hospitals
+
+💻 Computers
+
+::: fragment
+### What clues would YOU look for?
+:::
+
+---
+
+# My laboratory {background-image="figs/background1.png"}
+
+![](https://plus.unsplash.com/premium_photo-1682141002094-668233a72d60?fm=jpg&q=80&w=1800)
+
+💻 Computers
+
+📊 Graphs
+
+🧮 Maths
+
+🗺️ Maps
+
+👥 Teams
+
+::: fragment
+Many scientists never wear white coats!
+:::
+
+## Quick question!
+
+Raise your hand if...
+
+❤️ You like maths
+
+💻 You like computers
+
+🔬 You like science
+
+🧩 You like solving puzzles
+
+
+# What happened during COVID? {background-image="figs/background1.png"}
+
+## 🦠 → 🌍 → 🤝 → 🏥 → 💉 → 😊
+
+::: fragment
+Scientists worked together.
+:::
+
+::: fragment
+Doctors, nurses, engineers and researchers.
+:::
+
+::: fragment
+I built mathematical models to explore what might happen next.
+:::
+
+---
+
+# Why do children get the flu vaccine at school? {background-image="figs/background1.png"}
+
+## Who has had the little nose spray?
+
+👦
+
+↓
+
+👦 👧 👦 👧
+
+↓
+
+🏠 Families
+
+↓
+
+👵 Grandparents
+
+::: fragment
+Children are very good at sharing germs!
+:::
+
+::: fragment
+Vaccination slows the spread.
+:::
+
+::: fragment
+Protecting one person helps protect many others.
+:::
+
+::: fragment
+My work helped provide scientific evidence used by experts when considering the UK's school flu programme.
+:::
+
+---
+
+## What is a mathematical model?
+
+### Like Minecraft 🎮
+
+### Like SimCity 🏙️
+
+### Like weather forecasts ☀️
+
+::: fragment
+A model is a simulator.
+:::
+
+::: fragment
+A practice world for testing ideas safely.
+:::
+
+---
+
+## Let's imagine...
+
+🔴 = infected
+
+🔵 = healthy
+
+🟢 = vaccinated
+
+🔵 🔵 🔴 🔵 🔵
+
+::: fragment
+What happens next?
+:::
+
+::: fragment
+Can you guess?
+:::
+
+---
+
+## My favourite part of my job
+
+![](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1800)
+
+🧩 Solving puzzles
+
+🌍 Helping people
+
+👨‍💻 Building models
+
+✈️ Travelling
+
+👩‍🔬 Working with amazing people
+
+🎓 Teaching
+
+---
+
+## How did I become a scientist?
+
+### School
+
+↓
+
+### Loved maths
+
+↓
+
+### University
+
+↓
+
+### Research
+
+↓
+
+### Helping people
+
+::: fragment
+I wasn't born a scientist.
+:::
+
+::: fragment
+I stayed curious.
+:::
+
+<!-- ## Every scientist asks... -->
+
+<!-- # WHY? -->
+
+<!-- ::: fragment -->
+<!-- # HOW? -->
+<!-- ::: -->
+
+<!-- ::: fragment -->
+<!-- # WHAT IF...? -->
+<!-- ::: -->
+
+<!-- ::: fragment -->
+<!-- # COULD WE DO BETTER? -->
+<!-- ::: -->
+
+---
+
+## Your turn!
+
+### What would YOU investigate?
+
+🌍 The planet?
+
+🚀 Space?
+
+🦖 Dinosaurs?
+
+🦠 Diseases?
+
+🎮 Video games?
+
+---
+
+## Time for an animation!
+
+![](https://images.pexels.com/photos/8471910/pexels-photo-8471910.jpeg)
+
+## Scientists working together
+
+## Solving problems
+
+## Helping people
+
+---
+
+## What do YOU think?
+
+ What surprised you?
+
+ What did scientists actually do?
+
+ Why are science lessons important?
+
+ What would YOU investigate?
+
+---
+
+## Thank you!
+
+🟨 Stay curious.
+
+🟦 Keep asking questions.
+
+🟩 Science needs people like you.
+
+🟪 Maybe the next scientist is sitting in this room today.
